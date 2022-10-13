@@ -1,0 +1,67 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+
+}
+.wrap{
+    width: 1300px;
+    min-height: 900px ;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.simps-family {
+    display: flex;
+    justify-content: center;
+}
+.family {
+    display: block;
+    width: 700px;
+    border: cornflowerblue 4px solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    color: cornflowerblue;
+}
+h1{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+
+.title-img {
+    text-align: center;
+}
+
+h2>a {
+    text-decoration: none;
+    color: orange;
+
+}
+h2>a:hover {
+    color: cornflowerblue;
+
+}
+
+.hero-card {
+    display: flex;
+}
+.card {
+    display: block;
+    width: 500px;
+    border: orange 4px solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.homer {
+    color: fuchsia;
+}
+.bart {
+    color: #2ad42d;
+}
+.liza {
+    color: #EC3257FF;
+}
