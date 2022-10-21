@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.wrap{
+    width: 800px;
+    height: 600px;
+    background: steelblue;
+}
+.menu {
+    display: block;
+    width: 800px;
+    height: 50px;
+    background: #00d9ff;
+
+}
+.menu-nav {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-list {
+
+}
+.section1 {
+    width: 800px;
+    height: 300px;
+    background: blue;
+}
+.section2 {
+    width: 800px;
+    height: 300px;
+    background: orange;
+
+}
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    border-radius: 10px;
+    margin-left: 20px;
+    position: relative;
+    top: -100px;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 10px;
+    box-sizing: border-box;
+
+}
