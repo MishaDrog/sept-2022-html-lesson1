@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 600px;
+    background: aqua;
+}
+.card-wrap {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.title > h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.card-list > li {
+    list-style: none;
+    margin-left: 20px;
+
+
+}
+.card {
+
+
+
+
+
+}
+.card-item > a {
+    display: flex;
+    justify-content: center;
+}
+
+.card-item {
+
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+    background: orange;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+.card-item:hover {
+    background: aqua;
+}
+

@@ -1,0 +1,30 @@
+@media screen  and (min-width: 0px) and (max-width: 750px) {
+    .wrap {
+
+        flex-direction: column;
+    }
+
+    .block-a {
+        width: 900px;
+        height: 150px;
+        background: #2ad42d;
+        border: 1px solid black;
+
+    }
+
+    .block-b {
+        background: #ec3257;
+        width: 900px;
+        height: 200px;
+        border: 1px solid black;
+
+    }
+    .block-c {
+        background: #00d9ff;
+        width: 900px;
+        height: 200px;
+        border: 1px solid black;
+
+    }
+
+}
